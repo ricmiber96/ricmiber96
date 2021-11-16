@@ -14,7 +14,7 @@
     </a>  
 </p>
 
-### Hello everyone 😄<img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width= "28px"/>
+### Hello everyone <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width= "20px"/> 😄
 
 I am a FullStack Developer 💻 born and raised in Valencia, Spain 🇪🇸, in this moment I'm working and studying differents web technologies like React or Node JS for Backend but also I like work with Python🐍.
 
