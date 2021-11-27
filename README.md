@@ -5,7 +5,7 @@
 
 ### Hello everyone <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width= "24px"/>😄 !!
 
-I am a FullStack Developer 💻 born and raised in Valencia, Spain 🇪🇸, in this moment I'm working and studying differents web technologies like React or Node JS for Backend but also I like work with Python🐍.
+I am a FullStack Developer 💻 born and raised in Valencia, Spain, in this moment I'm working and studying differents web technologies like React or Node JS for Backend but also I like work with Python🐍.
 
 I also love practicing numerous sports, playing videogames and enjoying a cold beer surrounded by friends and family.
 
@@ -27,6 +27,11 @@ const ricmiber96 = {
    currentOccupation: ["Studing FullStack on EOI, open for job opportunities"],
 };
 ```
+</br></br>
+<h2>💻📈Stats:</h2>
+
+![Ricmiber96's github stats](https://github-readme-stats.vercel.app/api?username=ricmiber96&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)
+
 </br></br>
 <h2>You can find me 🌍:</h2>
 
@@ -50,8 +55,4 @@ const ricmiber96 = {
         <img src="https://drive.google.com/uc?export=view&id=1LWOObkqtIURp2Ptd6FxD8wJQGllcCYlC" height="50" alt="Twitter" style="padding-right: 10px" />
     </a>
 </p>
-
-<h2>💻📈Stats</h2>
-
-![Ricmiber96's github stats](https://github-readme-stats.vercel.app/api?username=ricmiber96&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)
 
