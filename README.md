@@ -20,7 +20,7 @@ const ricmiber96 = {
       backEnd: {
          js: ["Node", "Express"],
       },
-      databases: ["MongoDB", "mySQL", "SQLServer"],
+      databases: ["MongoDB", "mySQL", "MariaDB"],
       testing:["Jest"],
       mobile: ["Android"]
    },
