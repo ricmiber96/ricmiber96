@@ -109,26 +109,3 @@
     <img src="https://random-memer.herokuapp.com/" width="512px"/>
 </div>
 
-<h2>You can find me 🌍:</h2>
-
-<p align="center">
-    <a href="https://ricmiber96.github.io/">
-        <img src="https://drive.google.com/uc?export=view&id=1uudI394XrlXH247lSUAPCpXNNuwariLT" height="50" alt="Website" />
-    </a>
-        <a href="https://www.linkedin.com/in/ricardomirallesbernal">
-        <img src="https://drive.google.com/uc?export=view&id=1DzgMvA2iJGuR8ShcUTog0NHHwqKpZMOJ" height="50" alt="LinkedIn" style="padding-right: 10px" />
-    </a>
-    </a>
-        <a href="https://mail.google.com/mail/?view=cm&fs=1&to=ricmiber@gmail.com">
-        <img src="https://drive.google.com/uc?export=view&id=1Q0cYUKyECC3OXkYTeufcNwou5eL8n0l1" height="50" alt="Email" style="padding-right: 10px" />
-    </a>
-    </a>
-        <a href="">
-        <img src="https://drive.google.com/uc?export=view&id=1EPEF9I-a2H37GaqmH0Q_SnqTXmGdwVVw" height="50" alt="DEVTO" style="padding-right: 10px" />
-    </a>
-    </a>
-        <a href="">
-        <img src="https://drive.google.com/uc?export=view&id=1LWOObkqtIURp2Ptd6FxD8wJQGllcCYlC" height="50" alt="Twitter" style="padding-right: 10px" />
-    </a>
-</p>
-
