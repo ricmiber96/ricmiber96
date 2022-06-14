@@ -63,10 +63,10 @@
     </a>
 </p>
 
-📚 Full-stack developer with experience with Node, Express & React.
+📚 Full-stack developer with experience with Node, Express & React.\
 🔭 I’m currently working on my dev Skills.\
 🌱 I’m currently learning more about Web Development.\
-🤔 I’m looking for help with Exploring New Technologies.\
+🤔 I’m looking for help with Exploring New Technologies.
 
 ## 💻Tech Stack
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
