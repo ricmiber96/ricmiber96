@@ -13,10 +13,10 @@
         <img src="./assets/dark-mode/twitter.svg" />
     </a>
     &nbsp;&nbsp;
-    <a href="https://www.linkedin.com/in/ricardomiralles#gh-light-mode-only">
+    <a href="https://www.linkedin.com/in/ricardomirallesbernal#gh-light-mode-only">
         <img src="./assets/light-mode/linkedin.svg" />
     </a>
-    <a href="https://www.linkedin.com/in/ricardomiralles#gh-dark-mode-only">
+    <a href="https://www.linkedin.com/in/ricardomirallesbernal#gh-dark-mode-only">
         <img src="./assets/dark-mode/linkedin.svg" />
     </a>
     &nbsp;&nbsp;
