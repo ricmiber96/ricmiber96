@@ -68,7 +68,7 @@
 🌱 I’m currently learning more about Web Development.\
 🤔 I’m looking for help with Exploring New Technologies.
 
-## 💻Tech Stack
+## 💻 Tech Stack
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/-CSS3-2B94C7?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) 
@@ -96,15 +96,15 @@
     </a>
     &nbsp;&nbsp;&nbsp;&nbsp;
     <a href="https://github.com/DanielRamosAcosta#gh-light-mode-only">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ricmiber96&layout=compact" height="130px" />
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ricmiber96&layout=compact" height="160px" />
     </a>
     <a href="https://github.com/DanielRamosAcosta#gh-dark-mode-only">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ricmiber96&layout=compact&theme=dark" height="128px" />
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ricmiber96&layout=compact&theme=dark" height="160px" />
     </a>
 </p>
 
 
-## Dev Meme
+## 👨‍💻 Dev Meme
 <div align="center">
     <img src="https://random-memer.herokuapp.com/" width="512px"/>
 </div>
