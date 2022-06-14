@@ -27,6 +27,13 @@
         <img src="./assets/dark-mode/email.svg" />
     </a>
     &nbsp;&nbsp;
+    <a href="https://github.com/ricmiber96#gh-light-mode-only">
+        <img src="./assets/light-mode/website.svg"/>
+    </a>
+    <a href="https://github.com/ricmiber96#gh-dark-mode-only">
+        <img src="./assets/dark-mode/website.svg" />
+    </a>
+    &nbsp;&nbsp;
     <a href="https://twitter.com/ricmiber96#gh-light-mode-only">
         <img src="./assets/light-mode/twitter.svg" />
     </a>
@@ -51,15 +58,8 @@
 
 
 🔭  I’m currently working on my dev Skills.\
- 🌱 I’m currently learning more about Web Development.\
- 🤔 I’m looking for help with Exploring New Technologies.\
- 💬 Ask me about any tech-related stuff.\
- 📫 How to reach me: Email - ricmiber@gmail.com\
-
-## 🌐Socials
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/DevelopingGamer) 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/DevelopingGamer) 
-[![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@DevelopingGamer) 
+🌱 I’m currently learning more about Web Development.\
+🤔 I’m looking for help with Exploring New Technologies.\
 
 ## 💻Tech Stack
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
@@ -96,17 +96,6 @@
     </a>
 </p>
 
-## Top repositories
-
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=kevinfengcs88&repo=wavedash&theme=github_dark)](https://github.com/kevinfengcs88/wavedash)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=kevinfengcs88&repo=vim-guide&theme=github_dark)](https://github.com/kevinfengcs88/vim-guide)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=kevinfengcs88&repo=kahoot-monkey&theme=github_dark)](https://github.com/kevinfengcs88/kahoot-monkey)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=kevinfengcs88&repo=kevinfeng.ga&theme=github_dark)](https://github.com/kevinfengcs88/kevinfeng.ga)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=kevinfengcs88&repo=monkaly&theme=github_dark)](https://github.com/kevinfengcs88/monkaly)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=kevinfengcs88&repo=osrs-projects&theme=github_dark)](https://github.com/kevinfengcs88/osrs-projects)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=kevinfengcs88&repo=piercetheheavens.ga&theme=github_dark)](https://github.com/kevinfengcs88/piercetheheavens.ga)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=kevinfengcs88&repo=morse-learner&theme=github_dark)](https://github.com/kevinfengcs88/morse-learner)
-</br></br>
 
 ## Dev Meme
 <div align="center">
