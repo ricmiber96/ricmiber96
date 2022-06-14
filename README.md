@@ -27,10 +27,10 @@
         <img src="./assets/dark-mode/email.svg" />
     </a>
     &nbsp;&nbsp;
-    <a href="https://github.com/ricmiber96#gh-light-mode-only">
+    <a href="https://ricmiber96.github.io/#gh-light-mode-only">
         <img src="./assets/light-mode/website.svg"/>
     </a>
-    <a href="https://github.com/ricmiber96#gh-dark-mode-only">
+    <a href="https://ricmiber96.github.io/#gh-dark-mode-only">
         <img src="./assets/dark-mode/website.svg" />
     </a>
     &nbsp;&nbsp;
