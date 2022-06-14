@@ -3,48 +3,41 @@
 </p>
 
 
-# Hi <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" height="30px" width="30px">, I'm Ricardo
+# Hi <img src="./wave.gif" height="30px" width="30px">, I'm Ricardo
 
 <p>
-    <a href="https://twitter.com/DanielRamosAcos#gh-light-mode-only">
+    <a href="https://twitter.com/ricmiber96#gh-light-mode-only">
         <img src="./assets/light-mode/twitter.svg" />
     </a>
-    <a href="https://twitter.com/DanielRamosAcos#gh-dark-mode-only">
+    <a href="https://twitter.com/ricmiber96#gh-dark-mode-only">
         <img src="./assets/dark-mode/twitter.svg" />
     </a>
     &nbsp;&nbsp;
-    <a href="https://www.linkedin.com/in/danielramosacosta#gh-light-mode-only">
+    <a href="https://www.linkedin.com/in/ricardomiralles#gh-light-mode-only">
         <img src="./assets/light-mode/linkedin.svg" />
     </a>
-    <a href="https://www.linkedin.com/in/danielramosacosta#gh-dark-mode-only">
+    <a href="https://www.linkedin.com/in/ricardomiralles#gh-dark-mode-only">
         <img src="./assets/dark-mode/linkedin.svg" />
     </a>
     &nbsp;&nbsp;
-    <a href="https://github.com/DanielRamosAcosta#gh-light-mode-only">
+    <a href="https://github.com/ricmiber96#gh-light-mode-only">
         <img src="./assets/light-mode/github.svg" />
     </a>
-    <a href="https://github.com/DanielRamosAcosta#gh-dark-mode-only">
+    <a href="https://github.com/ricmiber96#gh-dark-mode-only">
         <img src="./assets/dark-mode/github.svg" />
     </a>
     &nbsp;&nbsp;
-    <a href="https://www.instagram.com/danielramosacosta#gh-light-mode-only">
+    <a href="https://www.instagram.com/ricmiber96#gh-light-mode-only">
         <img src="./assets/light-mode/instagram.svg" />
     </a>
-    <a href="https://www.instagram.com/danielramosacosta#gh-dark-mode-only">
+    <a href="https://www.instagram.com/ricmiber96#gh-dark-mode-only">
         <img src="./assets/dark-mode/instagram.svg" />
     </a>
     &nbsp;&nbsp;
-    <a href="https://t.me/danielramos1#gh-light-mode-only">
-        <img src="./assets/light-mode/telegram.svg" />
-    </a>
-    <a href="https://t.me/danielramos1#gh-dark-mode-only">
-        <img src="./assets/dark-mode/telegram.svg" />
-    </a>
-    &nbsp;&nbsp;
-    <a href="https://medium.com/@danielramosacosta#gh-light-mode-only">
+    <a href="https://medium.com/@ricmiber96#gh-light-mode-only">
         <img src="./assets/light-mode/medium.svg" />
     </a>
-    <a href="https://medium.com/@danielramosacosta#gh-dark-mode-only">
+    <a href="https://medium.com/@ricmiber96#gh-dark-mode-only">
         <img src="./assets/dark-mode/medium.svg" />
     </a>
 </p>
