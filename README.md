@@ -6,13 +6,6 @@
 # Hi <img src="./wave.gif" height="30px" width="30px">, I'm Ricardo
 
 <p>
-    <a href="https://twitter.com/ricmiber96#gh-light-mode-only">
-        <img src="./assets/light-mode/twitter.svg" />
-    </a>
-    <a href="https://twitter.com/ricmiber96#gh-dark-mode-only">
-        <img src="./assets/dark-mode/twitter.svg" />
-    </a>
-    &nbsp;&nbsp;
     <a href="https://www.linkedin.com/in/ricardomirallesbernal#gh-light-mode-only">
         <img src="./assets/light-mode/linkedin.svg" />
     </a>
@@ -25,6 +18,20 @@
     </a>
     <a href="https://github.com/ricmiber96#gh-dark-mode-only">
         <img src="./assets/dark-mode/github.svg" />
+    </a>
+    &nbsp;&nbsp;
+    <a href="https://github.com/ricmiber96#gh-light-mode-only">
+        <img src="./assets/light-mode/email.svg"/>
+    </a>
+    <a href="https://github.com/ricmiber96#gh-dark-mode-only">
+        <img src="./assets/dark-mode/email.svg" />
+    </a>
+    &nbsp;&nbsp;
+    <a href="https://twitter.com/ricmiber96#gh-light-mode-only">
+        <img src="./assets/light-mode/twitter.svg" />
+    </a>
+    <a href="https://twitter.com/ricmiber96#gh-dark-mode-only">
+        <img src="./assets/dark-mode/twitter.svg" />
     </a>
     &nbsp;&nbsp;
     <a href="https://www.instagram.com/ricmiber96#gh-light-mode-only">
@@ -43,7 +50,7 @@
 </p>
 
 
-🔭 I’m currently working on my dev Skills.\
+🔭  I’m currently working on my dev Skills.\
  🌱 I’m currently learning more about Web Development.\
  🤔 I’m looking for help with Exploring New Technologies.\
  💬 Ask me about any tech-related stuff.\
