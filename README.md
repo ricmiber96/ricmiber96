@@ -34,6 +34,13 @@
         <img src="./assets/dark-mode/website.svg" />
     </a>
     &nbsp;&nbsp;
+    <a href="https://dev.to/ricmiber96/#gh-light-mode-only">
+        <img src="./assets/light-mode/devto.svg"/>
+    </a>
+    <a href="https://dev.to/ricmiber96/#gh-dark-mode-only">
+        <img src="./assets/dark-mode/devto.svg" />
+    </a>
+    &nbsp;&nbsp;
     <a href="https://twitter.com/ricmiber96#gh-light-mode-only">
         <img src="./assets/light-mode/twitter.svg" />
     </a>
