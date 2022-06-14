@@ -56,8 +56,8 @@
     </a>
 </p>
 
-
-🔭  I’m currently working on my dev Skills.\
+📚 Full-stack developer with experience with Node, Express & React.
+🔭 I’m currently working on my dev Skills.\
 🌱 I’m currently learning more about Web Development.\
 🤔 I’m looking for help with Exploring New Technologies.\
 
