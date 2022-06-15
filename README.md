@@ -104,7 +104,7 @@
 </p>
 
 
-## 👨‍💻 Dev Meme
+## 👨‍💻 Random Dev Meme
 <div align="center">
     <img src="https://random-memer.herokuapp.com/" width="512px"/>
 </div>
