@@ -48,13 +48,6 @@
         <img src="./assets/dark-mode/twitter.svg" />
     </a>
     &nbsp;&nbsp;
-    <a href="https://www.instagram.com/ricmiber96#gh-light-mode-only">
-        <img src="./assets/light-mode/instagram.svg" />
-    </a>
-    <a href="https://www.instagram.com/ricmiber96#gh-dark-mode-only">
-        <img src="./assets/dark-mode/instagram.svg" />
-    </a>
-    &nbsp;&nbsp;
     <a href="https://medium.com/@ricmiber96#gh-light-mode-only">
         <img src="./assets/light-mode/medium.svg" />
     </a>
