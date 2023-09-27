@@ -3,7 +3,9 @@
 </p>
 
 
-# Hi <img src="wave.gif" height="30px" width="30px">, I'm Ricardo
+# Hi <img src="wave.gif" height="30px" width="30px">, I'm Ricardo 
+
+![Codewars](https://www.codewars.com/users/ricmiber96/badges/micro)
 
 <p>
     <a href="https://www.linkedin.com/in/ricardomirallesbernal#gh-light-mode-only">
